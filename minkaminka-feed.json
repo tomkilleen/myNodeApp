@@ -3,80 +3,80 @@
         "ID": "001",
         "Name": "Angular",
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/10.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/10.jpg"  
     },
  
     {
         "ID": "002",
         "Name": "JSON", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/2.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/2.jpg"  
     },
   
     {
         "ID": "003",
         "Name": "Asp.Net", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/3.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/3.jpg"  
     },
         {
         "ID": "004",
         "Name": "Angular",
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/4.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/4.jpg"  
     },
  
     {
         "ID": "005",
         "Name": "JSON", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/5.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/5.jpg"  
     },
   
     {
         "ID": "006",
         "Name": "Asp.Net", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/6.jpg" 
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/6.jpg" 
     },
         {
         "ID": "007",
         "Name": "Angular",
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/7.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/7.jpg"  
     },
  
     {
         "ID": "008",
         "Name": "JSON", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/8.jpg" 
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/8.jpg" 
     },
   
     {
         "ID": "009",
         "Name": "Asp.Net", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/9.jpg" 
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/9.jpg" 
     },
         {
         "ID": "010",
         "Name": "Angular",
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/0.jpg"  
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/0.jpg"  
     },
  
     {
         "ID": "011",
         "Name": "JSON", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/11.jpg" 
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/11.jpg" 
     },
   
     {
         "ID": "012",
         "Name": "Asp.Net", 
         "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minka images/12.jpg" 
+        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/12.jpg" 
     }
 ]
