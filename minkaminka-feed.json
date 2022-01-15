@@ -9,74 +9,41 @@
     {
         "ID": "002",
         "Name": "JSON", 
-        "Author": "@tinklemole", 
+        "Author": "@lemonade", 
         "Image": "https://i.imgur.com/XTAcEra.jpeg"  
     },
   
     {
         "ID": "003",
         "Name": "Asp.Net", 
-        "Author": "@tinklemole", 
+        "Author": "@weldr67", 
         "Image": "https://i.imgur.com/yp7xJTt.jpeg"  
     },
         {
         "ID": "004",
         "Name": "Angular",
-        "Author": "@tinklemole", 
+        "Author": "@memedealer", 
         "Image": "https://i.imgur.com/9sDbGSq.jpeg"  
     },
  
     {
         "ID": "005",
         "Name": "JSON", 
-        "Author": "@tinklemole", 
+        "Author": "@stoleyourpounds", 
         "Image": "https://i.imgur.com/iYClZVv.jpeg"  
     },
   
     {
         "ID": "006",
         "Name": "Asp.Net", 
-        "Author": "@tinklemole", 
+        "Author": "@davebeastly", 
         "Image": "https://i.imgur.com/zKOhMU3.jpeg" 
     },
         {
         "ID": "007",
         "Name": "Angular",
-        "Author": "@tinklemole", 
+        "Author": "@gemini", 
         "Image": "https://i.imgur.com/x5QCAgp.jpeg"  
-    },
- 
-    {
-        "ID": "008",
-        "Name": "JSON", 
-        "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/8.jpg" 
-    },
-  
-    {
-        "ID": "009",
-        "Name": "Asp.Net", 
-        "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/9.jpg" 
-    },
-        {
-        "ID": "010",
-        "Name": "Angular",
-        "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/0.jpg"  
-    },
- 
-    {
-        "ID": "011",
-        "Name": "JSON", 
-        "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/11.jpg" 
-    },
-  
-    {
-        "ID": "012",
-        "Name": "Asp.Net", 
-        "Author": "@tinklemole", 
-        "Image": "http://hunterkilleen.com/minkaminka/images/minkaimages/12.jpg" 
     }
+
 ]
