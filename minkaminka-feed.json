@@ -3,41 +3,47 @@
         "ID": "001",
         "Name": "Angular",
         "Author": "@tinklemole", 
-        "Image": "https://i.imgur.com/DVEHwx4.jpeg"  
+        "Image": "https://i.imgur.com/DVEHwx4.jpeg",
+        "Likes": 14
     },
  
     {
         "ID": "002",
         "Name": "JSON", 
         "Author": "@lemonade", 
-        "Image": "https://i.imgur.com/XTAcEra.jpeg"  
+        "Image": "https://i.imgur.com/XTAcEra.jpeg",
+        "Likes": 21  
     },
   
     {
         "ID": "003",
         "Name": "Asp.Net", 
         "Author": "@weldr67", 
-        "Image": "https://i.imgur.com/yp7xJTt.jpeg"  
+        "Image": "https://i.imgur.com/yp7xJTt.jpeg",
+        "Likes": 26  
     },
         {
         "ID": "004",
         "Name": "Angular",
         "Author": "@memedealer", 
-        "Image": "https://i.imgur.com/9sDbGSq.jpeg"  
+        "Image": "https://i.imgur.com/9sDbGSq.jpeg",
+        "Likes": 32  
     },
  
     {
         "ID": "005",
         "Name": "JSON", 
         "Author": "@stoleyourpounds", 
-        "Image": "https://i.imgur.com/iYClZVv.jpeg"  
+        "Image": "https://i.imgur.com/iYClZVv.jpeg",
+        "Likes": 27  
     },
   
     {
         "ID": "006",
         "Name": "Asp.Net", 
         "Author": "@davebeastly", 
-        "Image": "https://i.imgur.com/zKOhMU3.jpeg" 
+        "Image": "https://i.imgur.com/zKOhMU3.jpeg",
+        "Likes": 43 
     },
         {
         "ID": "007",
