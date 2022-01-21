@@ -4,7 +4,8 @@
         "Name": "Angular",
         "Author": "@tinklemole", 
         "Image": "https://i.imgur.com/DVEHwx4.jpeg",
-        "Likes": 14
+        "Likes": 14,
+        "Type": 2
     },
  
     {
@@ -12,7 +13,8 @@
         "Name": "JSON", 
         "Author": "@lemonade", 
         "Image": "https://i.imgur.com/XTAcEra.jpeg",
-        "Likes": 21  
+        "Likes": 21,
+        "Type": 4  
     },
   
     {
@@ -20,14 +22,16 @@
         "Name": "Asp.Net", 
         "Author": "@weldr67", 
         "Image": "https://i.imgur.com/yp7xJTt.jpeg",
-        "Likes": 26  
+        "Likes": 26,
+        "Type": 0  
     },
         {
         "ID": "004",
         "Name": "Angular",
         "Author": "@memedealer", 
         "Image": "https://i.imgur.com/9sDbGSq.jpeg",
-        "Likes": 32  
+        "Likes": 32,
+        "Type": 1  
     },
  
     {
@@ -35,7 +39,8 @@
         "Name": "JSON", 
         "Author": "@stoleyourpounds", 
         "Image": "https://i.imgur.com/iYClZVv.jpeg",
-        "Likes": 27  
+        "Likes": 27,
+        "Type": 3  
     },
   
     {
@@ -43,14 +48,16 @@
         "Name": "Asp.Net", 
         "Author": "@davebeastly", 
         "Image": "https://i.imgur.com/zKOhMU3.jpeg",
-        "Likes": 43 
+        "Likes": 43,
+        "Type": 1 
     },
         {
         "ID": "007",
         "Name": "Angular",
         "Author": "@gemini", 
         "Image": "https://i.imgur.com/x5QCAgp.jpeg",
-        "Likes": 17  
+        "Likes": 17,
+        "Type": 2  
     }
 
 ]
